@@ -31,45 +31,45 @@
 
 ## 📚 สารบัญ
 
-### [1. 📡 Basic API](#1--basic-api)
-- [PART 1-1 - 🎯 Intro](#part-1-1----intro)
-- [PART 1-2 - 🛣️ สร้าง Route ด้วย Express](#part-1-2-----สร้าง-route-ด้วย-express)
-- [PART 1-3 - 💡 ตัวอย่างการสร้าง API](#part-1-3-----ตัวอย่างการสร้าง-api)
-- [PART 1-4 - ⚙️ การสร้าง Scripts](#part-1-4-----การสร้าง-scripts)
-- [PART 1-5 - 🔄 RESTful API](#part-1-5-----restful-api)
-- [PART 1-6 - 📥 Method GET and API Params](#part-1-6-----method-get-and-api-params)
-- [PART 1-7 - 📤 Using JSON and Method POST](#part-1-7-----using-json-and-method-post)
-- [PART 1-8 - ✏️ Method PUT](#part-1-8-----method-put)
-- [PART 1-9 - 🗑️ Method DELETE](#part-1-9-----method-delete)
+### [Module 1: 📡 Basic API](#module-1--basic-api)
+- [Section 1-1 - 🎯 Intro](#section-1-1-----intro)
+- [Section 1-2 - 🛣️ สร้าง Route ด้วย Express](#section-1-2-----สร้าง-route-ด้วย-express)
+- [Section 1-3 - 💡 ตัวอย่างการสร้าง API](#section-1-3-----ตัวอย่างการสร้าง-api)
+- [Section 1-4 - ⚙️ การสร้าง Scripts](#section-1-4-----การสร้าง-scripts)
+- [Section 1-5 - 🔄 RESTful API](#section-1-5-----restful-api)
+- [Section 1-6 - 📥 Method GET and API Params](#section-1-6-----method-get-and-api-params)
+- [Section 1-7 - 📤 Using JSON and Method POST](#section-1-7-----using-json-and-method-post)
+- [Section 1-8 - ✏️ Method PUT](#section-1-8-----method-put)
+- [Section 1-9 - 🗑️ Method DELETE](#section-1-9-----method-delete)
 
-### [2. 💾 Basic API MySQL](#2--basic-api-mysql)
-- [PART 2-1 - 🚀 Create New App Express and MySQL](#part-2-1-----create-new-app-express-and-mysql)
-- [PART 2-2 - 🔌 Connect MySQL Database](#part-2-2-----connect-mysql-database)
-- [PART 2-3 - ➕ CREATE USER](#part-2-3-----create-user)
-- [PART 2-4 - ✏️ UPDATE USER](#part-2-4-----update-user)
-- [PART 2-5 - 🗑️ DELETE USER](#part-2-5-----delete-user)
+### [Module 2: 💾 Basic API MySQL](#module-2--basic-api-mysql)
+- [Section 2-1 - 🚀 Create New App Express and MySQL](#section-2-1-----create-new-app-express-and-mysql)
+- [Section 2-2 - 🔌 Connect MySQL Database](#section-2-2-----connect-mysql-database)
+- [Section 2-3 - ➕ CREATE USER](#section-2-3-----create-user)
+- [Section 2-4 - ✏️ UPDATE USER](#section-2-4-----update-user)
+- [Section 2-5 - 🗑️ DELETE USER](#section-2-5-----delete-user)
 
-### [3. 🗄️ Sequelize](#3--sequelize)
-- [PART 3-1 - 📦 การติดตั้ง Sequelize](#part-3-1-----การติดตั้ง-sequelize)
-- [PART 3-2 - 🚀 New Project for Sequelize Demo](#part-3-2-----new-project-for-sequelize-demo)
-- [PART 3-3 - ⚙️ Config Sequelize](#part-3-3-----config-sequelize)
-- [PART 3-4 - 📋 สร้างโมเดล Student และ Faculty](#part-3-4-----สร้างโมเดล-student-และ-faculty)
-- [PART 3-5 - 🎮 การสร้าง Controllers](#part-3-5-----การสร้าง-controllers)
-- [PART 3-6 - 🛣️ การสร้าง Faculty Routes](#part-3-6-----การสร้าง-faculty-routes)
-- [PART 3-7 - 🛣️ การสร้าง Student Routes](#part-3-7-----การสร้าง-student-routes)
-- [PART 3-8 - ➕ การสร้าง Routes เพิ่มเติมใน Faculty (CRUD Complete)](#part-3-8-----การสร้าง-routes-เพิ่มเติมใน-faculty-crud-complete)
-- [PART 3-9 - 👨‍🎓 การสร้าง Controller & Route สำหรับ CRUD Student](#part-3-9-----การสร้าง-controller--route-สำหรับ-crud-student)
+### [Module 3: 🗄️ Sequelize](#module-3--sequelize)
+- [Section 3-1 - 📦 การติดตั้ง Sequelize](#section-3-1-----การติดตั้ง-sequelize)
+- [Section 3-2 - 🚀 New Project for Sequelize Demo](#section-3-2-----new-project-for-sequelize-demo)
+- [Section 3-3 - ⚙️ Config Sequelize](#section-3-3-----config-sequelize)
+- [Section 3-4 - 📋 สร้างโมเดล Student และ Faculty](#section-3-4-----สร้างโมเดล-student-และ-faculty)
+- [Section 3-5 - 🎮 การสร้าง Controllers](#section-3-5-----การสร้าง-controllers)
+- [Section 3-6 - 🛣️ การสร้าง Faculty Routes](#section-3-6-----การสร้าง-faculty-routes)
+- [Section 3-7 - 🛣️ การสร้าง Student Routes](#section-3-7-----การสร้าง-student-routes)
+- [Section 3-8 - ➕ การสร้าง Routes เพิ่มเติมใน Faculty (CRUD Complete)](#section-3-8-----การสร้าง-routes-เพิ่มเติมใน-faculty-crud-complete)
+- [Section 3-9 - 👨‍🎓 การสร้าง Controller & Route สำหรับ CRUD Student](#section-3-9-----การสร้าง-controller--route-สำหรับ-crud-student)
 
-### [4. 🔐 Authorization with JWT](#4--authorization-with-jwt)
-- [PART 4-1 - 🔑 JWT Authentication](#part-4-1-----jwt-authentication)
-- [PART 4-2 - 🛡️ สร้าง Middleware สำหรับ Verify Token](#part-4-2-----สร้าง-middleware-สำหรับ-verify-token)
-- [PART 4-3 - 🔐 การใช้งาน Middleware เพื่อป้องกัน Routes](#part-4-3-----การใช้งาน-middleware-เพื่อป้องกัน-routes)
-- [PART 4-4 - 📝 ตัวอย่างโค้ดเต็ม](#part-4-4-----ตัวอย่างโค้ดเต็ม)
-- [PART 4-5 - 🔧 การใช้ Environment Variables](#part-4-5-----การใช้-environment-variables) 
+### [Module 4: 🔐 Authorization with JWT](#module-4--authorization-with-jwt)
+- [Section 4-1 - 🔑 JWT Authentication](#section-4-1-----jwt-authentication)
+- [Section 4-2 - 🛡️ สร้าง Middleware สำหรับ Verify Token](#section-4-2-----สร้าง-middleware-สำหรับ-verify-token)
+- [Section 4-3 - 🔐 การใช้งาน Middleware เพื่อป้องกัน Routes](#section-4-3-----การใช้งาน-middleware-เพื่อป้องกัน-routes)
+- [Section 4-4 - 📝 ตัวอย่างโค้ดเต็ม](#section-4-4-----ตัวอย่างโค้ดเต็ม)
+- [Section 4-5 - 🔧 การใช้ Environment Variables](#section-4-5-----การใช้-environment-variables) 
 
 ---
 
-## 1. 📡 Basic API
+## Module 1: 📡 Basic API
 
 <div align="center">
 
@@ -81,7 +81,7 @@
 
 ---
 
-### PART 1-1 - 🎯 Intro
+### Section 1-1 - 🎯 Intro
 
 <div align="right">
 
@@ -148,7 +148,7 @@ nodemon index.js
 
 ---
 
-### PART 1-2 - 🛣️ สร้าง Route ด้วย Express
+### Section 1-2 - 🛣️ สร้าง Route ด้วย Express
 
 <div align="right">
 
@@ -202,7 +202,7 @@ nodemon app.js
 
 ---
 
-### PART 1-3 - 💡 ตัวอย่างการสร้าง API
+### Section 1-3 - 💡 ตัวอย่างการสร้าง API
 
 <div align="right">
 
@@ -251,7 +251,7 @@ PORT=3000 nodemon app-demo.js
 
 ---
 
-### PART 1-4 - ⚙️ การสร้าง Scripts
+### Section 1-4 - ⚙️ การสร้าง Scripts
 
 <div align="right">
 
@@ -313,7 +313,7 @@ npm run dev
 
 ---
 
-### PART 1-5 - 🔄 RESTful API
+### Section 1-5 - 🔄 RESTful API
 
 <div align="right">
 
@@ -404,7 +404,7 @@ app.listen(PORT, () => {
 
 ---
 
-### PART 1-6 - 📥 Method GET and API Params
+### Section 1-6 - 📥 Method GET and API Params
 
 <div align="right">
 
@@ -469,7 +469,7 @@ app.listen(PORT, () => {
 
 ---
 
-### PART 1-7 - 📤 Using JSON and Method POST
+### Section 1-7 - 📤 Using JSON and Method POST
 
 <div align="right">
 
@@ -595,7 +595,7 @@ app.listen(PORT, () => {
 
 ---
 
-### PART 1-8 - ✏️ Method PUT
+### Section 1-8 - ✏️ Method PUT
 
 <div align="right">
 
@@ -710,7 +710,7 @@ app.listen(PORT, () => {
 
 ---
 
-### PART 1-9 - 🗑️ Method DELETE
+### Section 1-9 - 🗑️ Method DELETE
 
 <div align="right">
 
@@ -830,7 +830,7 @@ app.listen(PORT, () => {
 
 ---
 
-## 🎉 สรุป Part 1
+## 🎉 สรุป Module 1
 
 เราได้เรียนรู้การสร้าง **RESTful API** แบบพื้นฐานครบทั้ง **CRUD Operations** กันแล้ว:
 
@@ -848,13 +848,13 @@ app.listen(PORT, () => {
 
 **🎊 ยินดีด้วยครับ! เราได้เรียนรู้พื้นฐานการสร้าง API กันแล้ว**
 
-[⬆ กลับไปที่สารบัญ](#-สารบัญ) • [➡️ ไปยัง Part 2: Basic API MySQL](#2-basic-api-mysql)
+[⬆ กลับไปที่สารบัญ](#-สารบัญ) • [➡️ ไปยัง Module 2: Basic API MySQL](#module-2--basic-api-mysql)
 
 </div>
 
 ---
 
-## 2. 💾 Basic API MySQL
+## Module 2: 💾 Basic API MySQL
 
 <div align="center">
 
@@ -866,7 +866,7 @@ app.listen(PORT, () => {
 
 ---
 
-### PART 2-1 - 🚀 Create New App Express and MySQL
+### Section 2-1 - 🚀 Create New App Express and MySQL
 
 <div align="right">
 
@@ -957,7 +957,7 @@ npm install -g nodemon
 
 ---
 
-### PART 2-2 - 🔌 Connect MySQL Database
+### Section 2-2 - 🔌 Connect MySQL Database
 
 <div align="right">
 
@@ -1058,7 +1058,7 @@ GET http://localhost:5000/users/1
 
 ---
 
-### PART 2-3 - ➕ CREATE USER
+### Section 2-3 - ➕ CREATE USER
 
 <div align="right">
 
@@ -1123,7 +1123,7 @@ Content-Type: application/json
 
 ---
 
-### PART 2-4 - ✏️ UPDATE USER
+### Section 2-4 - ✏️ UPDATE USER
 
 <div align="right">
 
@@ -1193,7 +1193,7 @@ Content-Type: application/json
 
 ---
 
-### PART 2-5 - 🗑️ DELETE USER
+### Section 2-5 - 🗑️ DELETE USER
 
 <div align="right">
 
@@ -1253,7 +1253,7 @@ DELETE http://localhost:5000/users/1
 
 ---
 
-## 🎉 สรุป Part 2
+## 🎉 สรุป Module 2
 
 เราได้เรียนรู้การเชื่อมต่อและใช้งาน **MySQL Database** กับ Express ครบทั้ง **CRUD Operations**:
 
@@ -1271,13 +1271,13 @@ DELETE http://localhost:5000/users/1
 
 **🎊 ยินดีด้วยครับ! เราได้เรียนรู้การใช้งาน MySQL Database แล้ว**
 
-[⬆ กลับไปที่สารบัญ](#-สารบัญ) • [➡️ ไปยัง Part 3: Sequelize](#3--sequelize)
+[⬆ กลับไปที่สารบัญ](#-สารบัญ) • [➡️ ไปยัง Module 3: Sequelize](#module-3--sequelize)
 
 </div>
 
 ---
 
-## 3. 🗄️ Sequelize
+## Module 3: 🗄️ Sequelize
 
 <div align="center">
 
@@ -1289,7 +1289,7 @@ DELETE http://localhost:5000/users/1
 
 ---
 
-### PART 3-1 - 📦 การติดตั้ง Sequelize
+### Section 3-1 - 📦 การติดตั้ง Sequelize
 
 <div align="right">
 
@@ -1329,7 +1329,7 @@ npm install --save sequelize mysql2
 ```
 ---
 
-### PART 3-2 - 🚀 New Project for Sequelize Demo
+### Section 3-2 - 🚀 New Project for Sequelize Demo
 
 <div align="right">
 
@@ -1409,7 +1409,7 @@ npm run dev
 
 ---
 
-### PART 3-3 - ⚙️ Config Sequelize
+### Section 3-3 - ⚙️ Config Sequelize
 
 <div align="right">
 
@@ -1536,7 +1536,7 @@ db.sequelize.sync({ force: false })
 
 ---
 
-### PART 3-4 - 📋 สร้างโมเดล Student และ Faculty
+### Section 3-4 - 📋 สร้างโมเดล Student และ Faculty
 
 <div align="right">
 
@@ -1696,7 +1696,7 @@ module.exports = db;
 
 ---
 
-### PART 3-5 - 🎮 การสร้าง Controllers
+### Section 3-5 - 🎮 การสร้าง Controllers
 
 <div align="right">
 
@@ -1773,7 +1773,7 @@ exports.findAll = async (req, res) => {
 
 ---
 
-### PART 3-6 - 🛣️ การสร้าง Faculty Routes
+### Section 3-6 - 🛣️ การสร้าง Faculty Routes
 
 <div align="right">
 
@@ -1854,7 +1854,7 @@ GET http://localhost:5000/api/faculty
 
 ---
 
-### PART 3-7 - 🛣️ การสร้าง Student Routes
+### Section 3-7 - 🛣️ การสร้าง Student Routes
 
 <div align="right">
 
@@ -1924,7 +1924,7 @@ GET http://localhost:5000/api/student
 
 ---
 
-### PART 3-8 - ➕ การสร้าง Routes เพิ่มเติมใน Faculty (CRUD Complete)
+### Section 3-8 - ➕ การสร้าง Routes เพิ่มเติมใน Faculty (CRUD Complete)
 
 <div align="right">
 
@@ -2226,7 +2226,7 @@ DELETE http://localhost:5000/api/faculty/1
 
 ---
 
-## 🎉 สรุป Part 3
+## 🎉 สรุป Module 3
 
 เราได้เรียนรู้การใช้งาน **Sequelize ORM** ครบทั้ง:
 
@@ -2245,7 +2245,7 @@ DELETE http://localhost:5000/api/faculty/1
 
 **🎊 ยินดีด้วยครับ! เราได้เรียนรู้การใช้งาน Sequelize ORM แล้ว**
 
-[⬆ กลับไปที่สารบัญ](#-สารบัญ) • [➡️ ไปยัง Part 4: Authorization with JWT](#4-authorization-with-jwt)
+[⬆ กลับไปที่สารบัญ](#-สารบัญ) • [➡️ ไปยัง Module 4: Authorization with JWT](#module-4--authorization-with-jwt)
 
 </div>
 
@@ -2278,7 +2278,7 @@ router.get("/:id", facultyController.findOne)
 
 ---
 
-### PART 3-9 - 👨‍🎓 การสร้าง Controller & Route สำหรับ CRUD Student
+### Section 3-9 - 👨‍🎓 การสร้าง Controller & Route สำหรับ CRUD Student
 
 <div align="right">
 
@@ -2405,7 +2405,7 @@ GET http://localhost:5000/api/student/12345
 
 ---
 
-## 4. 🔐 Authorization with JWT
+## Module 4: 🔐 Authorization with JWT
 
 <div align="center">
 
@@ -2417,7 +2417,7 @@ GET http://localhost:5000/api/student/12345
 
 ---
 
-### PART 4-1 - 🔑 JWT Authentication
+### Section 4-1 - 🔑 JWT Authentication
 
 <div align="right">
 
@@ -2554,7 +2554,7 @@ Content-Type: application/json
 
 ---
 
-### PART 4-2 - 🛡️ สร้าง Middleware สำหรับ Verify Token
+### Section 4-2 - 🛡️ สร้าง Middleware สำหรับ Verify Token
 
 <div align="right">
 
@@ -2630,7 +2630,7 @@ module.exports = {
 
 ---
 
-### PART 4-3 - 🔐 การใช้งาน Middleware เพื่อป้องกัน Routes
+### Section 4-3 - 🔐 การใช้งาน Middleware เพื่อป้องกัน Routes
 
 <div align="right">
 
@@ -2707,7 +2707,7 @@ GET http://localhost:5000/api/faculty
 
 ---
 
-### PART 4-4 - 📝 ตัวอย่างโค้ดเต็ม
+### Section 4-4 - 📝 ตัวอย่างโค้ดเต็ม
 
 <div align="right">
 
@@ -2831,7 +2831,7 @@ module.exports = router;
 
 ---
 
-### PART 4-5 - 🔧 การใช้ Environment Variables
+### Section 4-5 - 🔧 การใช้ Environment Variables
 
 <div align="right">
 
@@ -2910,7 +2910,7 @@ const SECRETKEY = process.env.JWT_SECRET; // ใช้จาก .env
 
 ---
 
-## 🎉 สรุป Part 4
+## 🎉 สรุป Module 4
 
 เราได้เรียนรู้การสร้างระบบ **Authentication และ Authorization** ด้วย JWT ครบทั้ง:
 
